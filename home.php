@@ -23,7 +23,7 @@ if (!isset($_SESSION['username'])) {
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="manage-users.php">Manage Users</a></li>
-    <li class="breadcrumb-item"><a href="logout.php">Log outs+</a></li>
+    <li class="breadcrumb-item"><a href="logout.php">Log out</a></li>
   </ol>
 </nav>
 
