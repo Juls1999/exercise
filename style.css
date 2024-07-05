@@ -1,0 +1,20 @@
+
+    /* Custom styles to center the form */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .form-container {
+      width: 80%; /* Adjust the width as per your design */
+      max-width: 400px; /* Maximum width of the form */
+      padding: 20px;
+      background-color: #f7f7f7; /* Optional: Add a background color */
+      border: 1px solid #ccc; /* Optional: Add a border */
+      border-radius: 8px; /* Optional: Add border radius */
+    }
+
+
+
